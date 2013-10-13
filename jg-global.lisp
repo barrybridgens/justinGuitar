@@ -4,9 +4,6 @@
 ;;; Global routines
 ;;;
 
-(defpackage :uk.co.barrybridgens.justin-guitar
-  (:use :common-lisp))
-
 (in-package :uk.co.barrybridgens.justin-guitar)
 
 (defun dots (time)
